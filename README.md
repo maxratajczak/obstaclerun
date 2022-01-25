@@ -1,7 +1,7 @@
 # obstaclerun
 First Unity game developed with C#
 
-Extract all the files in the .zip, run "Obstacle Run.exe", use WASD keys to move around & use ESC key to open main menu.
+Click Code -> Download ZIP -> Extract all the files in the .zip -> run "Obstacle Run.exe", use WASD keys to move around & use ESC key to open main menu.
 Enjoy!
 
 
